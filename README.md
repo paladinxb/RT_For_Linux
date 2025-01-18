@@ -19,12 +19,14 @@
 Для работы приложения требуется Python 3 и библиотека Flet. Установите их с помощью следующих команд:
 
 sudo apt-get install python3-pip
+
 pip3 install flet
 
 ### 2. Загрузите файлы приложения
 Загрузите файлы test.py и interface.py с GitHub:
 
 wget https://github.com/paladinxb/RT_For_Linux/blob/main/test.py
+
 wget https://github.com/paladinxb/RT_For_Linux/blob/main/interface.py
 
 ### 3. Запустите приложение
